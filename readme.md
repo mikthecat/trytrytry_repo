@@ -1,2 +1,2 @@
-#putangina
+putangina
 ____
